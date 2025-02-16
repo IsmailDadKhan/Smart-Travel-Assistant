@@ -1,0 +1,15 @@
+[
+    {
+        "Destination": "Dubai",
+        "Weather": "Sunny",
+        "Days": 6,
+        "Daily Budget": 50.0,
+        "Total Expense": 600.0,
+        "Packing List": [
+            "Sunglasses",
+            "Hat",
+            "Sunscreen",
+            "Umbrella"
+        ]
+    }
+]
